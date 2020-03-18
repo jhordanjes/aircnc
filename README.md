@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />
+    AirCnc
 </h1>
 
 <h4 align="center">
@@ -8,9 +8,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src=".github/aircnc.png" width="100%">
-</p>
+
 
 ## :rocket: Tecnologias
 
